@@ -5,9 +5,17 @@
 </h1>
 <h3 align="center">Trying to code</h3>
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
+<br/>
 
-- 📫 How to reach me **naqiu923@gmail.com**
+<div align="center>
+    
+    - 🌱 I’m currently learning **Python, HTML, CSS, JS**
+    
+    - 📫 How to reach me **naqiu923@gmail.com**
+
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
