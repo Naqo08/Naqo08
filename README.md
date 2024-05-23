@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Naqo08.Naqo08" />
+
 
 <h1 align="center">Hi 👋, I'm Naqiuddin</h1>
 <h3 align="center">Trying to code</h3>
