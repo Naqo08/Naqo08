@@ -9,9 +9,9 @@
 
 <div align="center>
     
-    - 🌱 I’m currently learning **Python, HTML, CSS, JS**
+ - 🌱 I’m currently learning **Python, HTML, CSS, JS**
     
-    - 📫 How to reach me **naqiu923@gmail.com**
+ - 📫 How to reach me **naqiu923@gmail.com**
 
 </div>
 
